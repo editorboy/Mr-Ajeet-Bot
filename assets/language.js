@@ -11,13 +11,13 @@
 ██╔══██║██║╚██╔╝██║██║░░██║██║ █▀█ █▀▀█ █▀█ ▄█─ 
 ██║░░██║██║░╚═╝░██║██████╔╝██║ ─▄▀ █▄▀█ ─▄▀ ─█─ 
 ╚═╝░░╚═╝╚═╝░░░░░╚═╝╚═════╝░╚═╝ █▄▄ █▄▄█ █▄▄ ▄█▄
-Copyright (C) 2021 Black Amda.
+Copyright (C) 2021 🅤𝚗𝚔𝚗𝚘𝚠𝚗 🅗𝚊𝚌𝚔𝚎r࿐.
 Licensed under the  GPL-3.0 License;
 you may not use this file except in compliance with the License.
 */
 
-const QueenAmdi = require('queenamdi-public');
-const build = QueenAmdi.build
+const Mr-Ajeet-Bot = require('mr-ajeet-bot-public');
+const build = Mr-Ajeet-Bot.build
 const fs = require('fs');
 const chalk = require('chalk');
 
