@@ -23,7 +23,7 @@ const Build = Mr-Ajeet-Bot.build
 
 Amdi.operate(
     {on: 'text', fromMe: false,  deleteCommand: false}, (async (amdiMSG) => {  
-    await QueenAmdi.amdi_setup()  
+    await Mr-Ajeet-Bot.amdi_setup()  
 
     await _amdi.fakeBots( amdiMSG )
     
