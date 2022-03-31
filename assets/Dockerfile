@@ -1,7 +1,7 @@
-FROM blackamda/queenamdi:public
+FROM ajeet-akshata/Mr-Ajeet-Bot:public
 
-RUN git clone https://github.com/BlackAmda/QueenAmdi /root/QueenAmdi
-WORKDIR /root/QueenAmdi/
+RUN git clone https://github.com/ajeet-akshata/Mr-Ajeet-Bot /root/Mr-Ajeet-Bot
+WORKDIR /root/Mr-Ajeet-Bot/
 ENV TZ=Asia/Colombo
 RUN npm install supervisor -g
 RUN yarn install --no-audit
