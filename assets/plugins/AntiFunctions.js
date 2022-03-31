@@ -16,10 +16,10 @@ Licensed under the  GPL-3.0 License;
 you may not use this file except in compliance with the License.
 */
 
-const QueenAmdi = require('queenamdi-public');
-const Amdi = QueenAmdi.events
-const _amdi = QueenAmdi.antiFunctions
-const Build = QueenAmdi.build
+const Mr-Ajeet-Bot = require('mr-ajeet-bot-public');
+const Amdi = Mr-Ajeet-Bot.events
+const _amdi = Mr-Ajeet-Bot.antiFunctions
+const Build = Mr-Ajeet-Bot.build
 
 Amdi.operate(
     {on: 'text', fromMe: false,  deleteCommand: false}, (async (amdiMSG) => {  
